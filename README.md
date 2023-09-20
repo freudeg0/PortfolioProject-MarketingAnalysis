@@ -1,7 +1,7 @@
 # Marketing Campaign Analysis and Optimization Report: Saturation, Channel Efficiency, and Recommendations
 
 ## Project Overview
-By analyzing the Marketing Campaign Data, this project aims to undertake a data-driven journey to address critical management requests.The KPIs which we worked on were channel like **organic,social,paid etc.,daily overall traffic,daily overall conversions**.Our job was to provide insights and recommendations to the marketing team based on the findings.
+By analyzing the Marketing Campaign Data, this project aims to undertake a data-driven journey to address critical management requests.The KPIs which we worked on were **channel** like **organic,social,paid etc.,daily overall traffic,daily overall conversions**.Our job was to provide insights and recommendations to the marketing team based on the findings.
 
 ## Tools
 
